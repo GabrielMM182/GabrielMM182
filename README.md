@@ -54,4 +54,7 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
-<img align="center" width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMM182&show_icons=true&locale=en&layout=compact" alt="GabrielMM182" />
+<img align="center" width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMM182&langs_count=8" alt="GabrielMM182" />
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMM182&langs_count=8)](https://github.com/GabrielMM182/github-readme-stats)
+
