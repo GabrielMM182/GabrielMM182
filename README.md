@@ -1,11 +1,7 @@
 <h1 align="center">Seja bem vindo(a) ao meu perfil 😁</h1>
-<h3 align="center">Desenvolvedor desde de 2019, full-stack maior foco em django REST e Angular</h3>
-<h1 align="center">Atualmente trabalho como Analista de Sistemas na SIS Soluções Integradas de Sistemas </h1>
-
-- 🌱 Estou estudando **Docker, Node.js ,Vue.js**
+<h3 align="center">Desenvolvedor desde de 2019, full-stack foco em django REST, Node.JS, Angular e Vue.JS</h3>
 
 - 📫 Entre em contato por **gmm_morais@hotmail.com**
-
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
