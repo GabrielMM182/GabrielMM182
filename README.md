@@ -1,5 +1,5 @@
 <h1 align="center">Seja bem vindo(a) ao meu perfil 😁</h1>
-<h3 align="center">Instrutor e Desenvolvedor desde de 2019, full-stack foco em Node.JS e Nest como backEnd e React, Angular e Vue.JS como frontEnd</h3>
+<h3 align="center">Instrutor e Desenvolvedor desde de 2019, full-stack foco em Node.JS e Nest como backEnd | Angular como frontEnd | Ionic como Mobile</h3>
 
 - 📫 Entre em contato por **gmm_morais@hotmail.com**
 - 🌱 Atualmente estudando e se aperfeiçoando em Testes automatizados em NodeJS e Typescript
