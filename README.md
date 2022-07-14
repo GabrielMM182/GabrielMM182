@@ -23,7 +23,7 @@
 </p>
 <h3 align="left">Back-End:</h3>
 <p align="left">
-<a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
+<a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://miro.medium.com/max/700/1*MQ-Lf8tmtfa-pumN2Sh0cw.png" alt="django" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 </p>
 <h3 align="left">Banco de dados:</h3>
