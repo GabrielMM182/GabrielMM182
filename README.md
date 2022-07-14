@@ -25,6 +25,7 @@
 <p align="left">
 <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yblwVfXu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xwnrswa6wfscoknc63c.png" alt="nestjs" width="40" height="40"/></a>
 </p>
 <h3 align="left">Banco de dados:</h3>
 <p align="left">
@@ -49,6 +50,8 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://jestjs.io/pt-BR/" target="_blank"> <img src="(http://assets.stickpng.com/images/62a765b6bd73a4af5c5d4fbb.png)" alt="jest" width="40" height="40"/></a>  
+  
 </p>
 
 <img align="center" width="100%" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMM182&langs_count=8" alt="GabrielMM182" />
