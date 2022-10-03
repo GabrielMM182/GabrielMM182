@@ -2,7 +2,7 @@
 <h3 align="center">Instrutor e Desenvolvedor desde de 2019, full-stack foco em Node.JS e Nest como backEnd | Angular como frontEnd | Ionic como Mobile</h3>
 
 - 📫 Entre em contato por **gmm_morais@hotmail.com**
-- 🌱 Atualmente estudando Redis, Mongodb E NOSQL em geral 
+- 🌱 Atualmente estudando Cloud e Swift
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
