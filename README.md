@@ -1,8 +1,8 @@
 <h1 align="center">Seja bem vindo(a) ao meu perfil 😁</h1>
-<h3 align="center">Instrutor e Desenvolvedor desde de 2019, full-stack foco em Node.JS e Nest como backEnd | Angular como frontEnd | Ionic como Mobile</h3>
+<h3 align="center">Instrutor e Desenvolvedor desde de 2018, full-stack foco em Node.JS e Nest como backEnd | Angular como frontEnd | Ionic como Mobile</h3>
 
 - 📫 Entre em contato por **gmm_morais@hotmail.com**
-- 🌱 Atualmente estudando Cloud e Swift
+- 🌱 Atualmente estudando Graphql
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
@@ -54,7 +54,4 @@
 <a href="https://jestjs.io/pt-BR/" target="_blank"> <img src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/jest.png" alt="docker" width="40" height="40"/></a>
   
 </p>
-
-<img align="center" width="100%" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMM182&langs_count=8" alt="GabrielMM182" />
-
 
