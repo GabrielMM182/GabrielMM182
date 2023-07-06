@@ -1,8 +1,8 @@
 <h1 align="center">Seja bem vindo(a) ao meu perfil 😁</h1>
-<h3 align="center">Instrutor e Desenvolvedor desde de 2018, full-stack foco em Node.JS e Nest como backEnd | React como frontEnd</h3>
+<h3 align="center">Instrutor e Desenvolvedor desde de 2018, full-stack foco em Node.JS utilizando Nest com o uso de ORM`s no backEnd |React-native no Mobile | React no frontEnd</h3>
 
 - 📫 Entre em contato por **gmm_morais@hotmail.com**
-- 🌱 Atualmente estudando Flutter e Dart
+- 🌱 Atualmente estudando Mobile 
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
