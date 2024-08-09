@@ -1,8 +1,8 @@
 <h1 align="center">Seja bem vindo(a) ao meu perfil 😁</h1>
-<h3 align="center">Instrutor e Desenvolvedor desde de 2018, full-stack foco em Node.JS utilizando Nest com o uso de ORM`s no backEnd |React-native no Mobile | React no frontEnd</h3>
+<h3 align="center"> Desenvolvedor, Analista de Dados e Instrutor desde de 2018, full-stack foco em backend utilizando Node + nestJS mas com conhecimentos previos em java spring e python django e Analista de Dados com foco em python, SQL e power BI </h3>
 
 - 📫 Entre em contato por **gmm_morais@hotmail.com**
-- 🌱 Atualmente estudando Mobile 
+- 🌱 Atualmente estudando machine learn e deep learn 
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
