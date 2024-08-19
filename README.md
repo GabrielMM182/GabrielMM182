@@ -6,7 +6,9 @@
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriel-morais-552052174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel" height="30" width="40" /></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morais-552052174)
+[![Outlook](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gmm_morais@hotmail.com)
 </p>
 
 <h3 align="center"> -- Conhecimentos -- </h3>
