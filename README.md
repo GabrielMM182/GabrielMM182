@@ -1,5 +1,4 @@
 <h1 align="center">Seja bem vindo(a) ao meu perfil 😁</h1>
-<h3 align="center"> Desenvolvedor Full Stack Senior com mais de 5 anos de experiência, especializado em soluções escaláveis utilizando TypeScript/JavaScript, Node.js, React e tecnologias cloud. Profissional proativo, atencioso e responsável com excelente comunicação em equipe e capacidade de liderança técnica. Histórico comprovado de transformação digital em diferentes segmentos, incluindo desenvolvimento de sistemas com registro no INPI, Criação de um LMS já sendo utilizado e comercializado, modernização de ERPs e implementação de automações que reduziram significativamente processos manuais. Bacharel em Sistemas de Informação pela UNIVAS (2022) e com experiência adicional de 2+ anos ministrando aulas para mais de 1.000 alunos. </h3>
 
 - 📫 Entre em contato por **gmm_morais@hotmail.com**
 - 🌱 Atualmente estudando machine learn, deep learn, I.A em geral
